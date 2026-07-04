@@ -67,3 +67,12 @@ body {
   padding-bottom: 10px;
 }
 
+.product-card {
+  display: inline-block;
+  width: 340px;
+  padding: 45px;
+  vertical-align: top;
+  margin: 0 16px 24px;
+  background: #F7F7FA;
+  border: 1px solid #515076;
+}
