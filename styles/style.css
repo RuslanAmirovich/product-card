@@ -13,7 +13,8 @@ body {
 .catalog__container {
 background-image: url(/images/dandelions.png);
 background-repeat: no-repeat;
-background-position: 790 697;
+background-position: 0 85;
+background-size: 790px 697px;
 padding-top: 170px;
 }
 
@@ -28,7 +29,6 @@ padding-top: 170px;
   line-height: 78px;
   text-align: center;
   padding-bottom: 110px;
-  padding-top: 220px;
 }
 
 .bg-dandelions {
